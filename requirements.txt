@@ -1,0 +1,9 @@
+##Libraries to installl
+
+xlwt
+opencv-python
+numpy
+matplotlib
+pillow
+pathlib
+MIME
